@@ -85,7 +85,6 @@ pyparsing==3.1.4
 PyPDF2==3.0.1
 python-dateutil==2.9.0.post0
 pytz==2024.2
-pywin32
 PyYAML==6.0.2
 referencing==0.35.1
 reportlab==4.2.5
